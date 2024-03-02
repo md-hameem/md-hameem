@@ -1,4 +1,4 @@
-![logo](https://github.com/md-hameem/md-hamim/blob/main/mohammad%20hamim%20banner.png)
+![logo]([https://github.com/md-hameem/md-hamim/blob/main/mohammad%20hamim%20banner.png](https://github.com/md-hameem/md-hameem/blob/main/mohammad%20hamim%20banner.png))
 <h1 align="center">Hello 👋, I'm Mohammad Hamim</h1>
 <h3 align="center">A Dynamic Software Engineer from Bangladesh, Studying in China.</h3>
 
