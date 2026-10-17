@@ -1,63 +1,264 @@
-<h1 align="center">Hello 👋, I'm Mohammad Hamim</h1>
-<h3 align="center">Software Engineer | AI & ML Enthusiast | Full-Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Mohammad%20Hamim&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20·%20Multi-Agent%20Systems%20·%20Computer%20Vision&descSize=16&descAlignY=52&descColor=E0E7FF" width="100%"/>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=md-hameem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Building+research+→+production+AI+pipelines;Multi-agent+systems+that+ship+real+code;0.92+AUC+%7C+99%25+accuracy+%7C+12-agent+orchestration" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
-- 🎓 **Software Engineer** from **Bangladesh**, currently pursuing my bachelor's at **Zhengzhou University, China**.
-- 💡 Passionate about **AI/ML, Full-Stack Development, and Cloud Computing**.
-- 🌱 Currently exploring **Next.js, Microservices Architecture, CI/CD, and TensorFlow**.
-- 💬 Ask me about **Full-Stack Development, Agile Methodologies, Code Optimization, and AI-driven applications**.
-- 📌 Former **Remote Full-Stack Developer at Luday AB, Sweden**.
-- ⚡ Fluent in **English, Bangla, and conversational Chinese**.
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/md-hameem)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat-square)](https://github.com/md-hameem)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&style=flat-square)](https://fb.com/xhameemx)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&style=flat-square)](https://discord.gg/kapanoplayer)
-📧 **Email:** hamimmd555@gmail.com  
-📱 **WeChat:** md_hameem  
-
-## 🛠️ Tech Stack
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-### **Web & Backend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### **Database & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### **AI & ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-## 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-hameem&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<p align="center">
+  <a href="https://itsmehamim.engineer"><img src="https://img.shields.io/badge/Portfolio-itsmehamim.engineer-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://linkedin.com/in/md-hameem"><img src="https://img.shields.io/badge/LinkedIn-md--hameem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:hamimmd555@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-764ba2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=md-hameem&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<br/>
+
+## `> whoami`
+
+AI/ML Engineer specializing in **multi-agent AI systems**, **computer vision**, and **full-stack AI applications**. I turn research papers into production-grade systems. My thesis achieved **0.92 AUC** on unsupervised anomaly detection and **99% classification accuracy**, and I've built agent pipelines with up to **12 autonomous agents** collaborating to ship real code.
+
+Currently starting my **M.S. in Computer Science at Beijing Institute of Technology** on a **Chinese Government Scholarship**, after completing a B.Sc. in Software Engineering at Zhengzhou University. Open to remote engineering roles.
+
+<br/>
+
+<table>
+<tr>
+<td>🔬</td><td><b>Research Focus</b></td><td>Multi-Agent Orchestration · Anomaly Detection · Computer Vision</td>
+</tr>
+<tr>
+<td>🏆</td><td><b>Latest Win</b></td><td>National First Prize | 16th College Student Market Survey Competition, China</td>
+</tr>
+<tr>
+<td>📄</td><td><b>Publications</b></td><td>2 published papers in North American Academic Research</td>
+</tr>
+<tr>
+<td>🌍</td><td><b>Languages</b></td><td>English · Bangla · Mandarin (HSK 3) · Hindi/Urdu</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧪 <a href="https://github.com/md-hameem/PaperToProd">PaperToProd</a></h3>
+<p align="center"><i>Multi-Agent Research Reproduction Engine</i></p>
+
+Converts academic papers into **reproducible code repositories** with traceable methodology-to-code mapping. Multi-agent LangGraph workflow handles paper analysis → code generation → validation → repair loops → documentation.
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-hameem&theme=tokyonight" alt="GitHub Streak"/>
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🔍 <a href="https://github.com/md-hameem/industrial-defect-detection">Industrial Defect Detection</a></h3>
+<p align="center"><i>Undergraduate Thesis · Computer Vision</i></p>
+
+Five unsupervised models (CAE, VAE, DAE, Skip-CAE, PatchCore) + supervised CNN across MVTec AD, KolektorSDD2 & NEU datasets. Real-time inference with spatial heat maps.
+
+<p align="center">
+<img src="https://img.shields.io/badge/AUC-0.92-667eea?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Accuracy-99%25-764ba2?style=flat-square&labelColor=1a1b27"/>
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 <a href="https://github.com/md-hameem/Autonomous-Deep-Research-Agent">Autonomous Deep Research Agent</a></h3>
+<p align="center"><i>4-Agent Async Research Pipeline</i></p>
+
+**Planner → Researcher → Critic → Writer** pipeline with multi-provider web research, relevance scoring, REST/WebSocket live progress streaming, and SQLite caching for pipeline reliability.
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/md-hameem/Autonomous-Deep-Research-Agent?style=flat-square&color=667eea&labelColor=1a1b27"/>
+<img src="https://img.shields.io/github/forks/md-hameem/Autonomous-Deep-Research-Agent?style=flat-square&color=764ba2&labelColor=1a1b27"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ <a href="https://github.com/md-hameem/SystemCrafter-AI">SystemCrafter AI</a></h3>
+<p align="center"><i>12-Agent Code Orchestration System</i></p>
+
+Converts **natural-language product descriptions** into deployable full-stack applications. Agents handle requirements analysis → system design → code generation → QA review → Docker deployment.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Agents-12-667eea?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Pipeline-End_to_End-764ba2?style=flat-square&labelColor=1a1b27"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌍 <a href="https://github.com/md-hameem/Climate-Disasters-Warning-Systems">Climate Disaster Warning</a></h3>
+<p align="center"><i>Deep Learning for Disaster Detection</i></p>
+
+ResNet, Vision Transformer (ViT), and GRACE satellite data for wildfire, flood, and sea-level rise detection. Supports early warning system research.
+
+<p align="center">
+<img src="https://img.shields.io/github/stars/md-hameem/Climate-Disasters-Warning-Systems?style=flat-square&color=667eea&labelColor=1a1b27"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ResNet-764ba2?style=flat-square"/>
+<img src="https://img.shields.io/badge/ViT-667eea?style=flat-square"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🧬 <a href="https://github.com/md-hameem/HERMES-reproduction">HERMES Reproduction</a></h3>
+<p align="center"><i>Research Paper Implementation & Validation</i></p>
+
+Full reproduction of the HERMES research methodology with experimental analysis, benchmarking, and validation against the original paper's results.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML_Research-764ba2?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,pytorch,tensorflow,opencv&theme=dark" alt="Languages & AI/ML"/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask,tailwind,docker,git&theme=dark" alt="Web & DevOps"/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,github,githubactions,linux,vscode,figma&theme=dark" alt="Data & Tools"/>
+</p>
+
+<details>
+<summary><b>🔎 Expand full stack breakdown</b></summary>
+<br/>
+
+| Domain | Technologies |
+|--------|-------------|
+| **AI / ML & CV** | PyTorch · TensorFlow · scikit-learn · OpenCV · Hugging Face · CNN · Autoencoders · PatchCore |
+| **AI Agents & Automation** | LangGraph · RAG · Multi-Agent Systems · Prompt Engineering · Workflow Automation |
+| **Full-Stack** | React · Next.js · Node.js · FastAPI · Flask · Tailwind CSS · REST APIs |
+| **Data & Analytics** | Pandas · NumPy · Power BI · Feature Engineering · KPI Dashboards |
+| **DevOps & Testing** | Docker · GitHub Actions · pytest · Jest · Agile/Scrum |
+
+</details>
+
+<br/>
+
+## Experience
+
+```
+2025  ━━  Data Analyst Intern          ·  Henan Enmaipu IT Co.    ·  Zhengzhou / Remote
+          SQL, Python, Power BI dashboards, ML collaboration on customer segmentation
+
+2024  ━━  Full-Stack Developer Intern  ·  Luday AB                ·  Sweden / Remote
+          React, Next.js, 3 dashboard modules, 15+ production bugs resolved
+
+2021  ━━  Full-Stack Developer         ·  Flamingo Footwear Ltd.  ·  Dhaka, Bangladesh
+          E-commerce platform, payment integration, 78% page load improvement
+```
+
+<br/>
+
+## Education & Awards
+
+<table>
+<tr>
+<td>🎓</td>
+<td>
+<b>M.S. Computer Science</b> | Beijing Institute of Technology, China <i>(2026–2028)</i><br/>
+<sub>Chinese Government Scholarship · Deep Learning · Computer Vision · Probabilistic ML</sub>
+</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td>
+<b>B.Sc. Software Engineering</b> | Zhengzhou University, China <i>(2022–2026)</i><br/>
+<sub>GPA 3.30/4.00 · Henan Provincial Govt Scholarship · Excellent Student Award 2024–25</sub>
+</td>
+</tr>
+<tr>
+<td>🥇</td>
+<td><b>National First Prize (一等奖)</b> | 16th College Student Market Survey & Analysis Competition <i>(2026)</i></td>
+</tr>
+<tr>
+<td>📜</td>
+<td>Google Data Analytics Professional · IBM Deep Learning Fundamentals · Google Cybersecurity</td>
+</tr>
+</table>
+
+<br/>
+
+## Publications
+
+<table>
+<tr>
+<td>📄</td>
+<td><b>Hamim, M.</b> (2025). <i>The Role of Artificial Intelligence in Revolutionizing Construction Project Management.</i> North American Academic Research. <a href="https://doi.org/10.5281/zenodo.14840458">DOI</a></td>
+</tr>
+<tr>
+<td>📄</td>
+<td><b>Hamim, M.</b> (2025). <i>Software Requirement Elicitation Technique: Gamification using Decision Tech Method.</i> North American Academic Research. <a href="https://doi.org/10.5281/zenodo.14884787">DOI</a></td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-hameem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=667eea&text_color=C9D1D9&ring_color=764ba2" width="49%" alt="Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hameem&hide_border=true&background=0D1117&ring=764ba2&fire=C084FC&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=545d6e" width="49%" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hameem&bg_color=0D1117&color=C084FC&line=667eea&point=C084FC&area=true&area_color=764ba2&hide_border=true" width="98%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-hameem&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&langs_count=8" width="40%" alt="Top Languages"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://itsmehamim.engineer"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+  <a href="https://linkedin.com/in/md-hameem"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://discord.gg/kapanoplayer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
+  <a href="https://fb.com/xhameemx"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-hameem&label=Profile+Views&color=764ba2&style=flat-square" alt="Views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
