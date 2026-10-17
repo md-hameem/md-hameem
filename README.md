@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Mohammad%20Hamim&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20·%20Multi-Agent%20Systems%20·%20Computer%20Vision&descSize=16&descAlignY=52&descColor=E0E7FF" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=520&height=30&lines=Building+research+→+production+AI+pipelines;Multi-agent+systems+that+ship+real+code;0.92+AUC+%7C+99%25+accuracy+%7C+12-agent+orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1500&color=C084FC&center=true&vCenter=true&repeat=true&width=580&height=30&lines=Multi-Agent+AI+Systems+%7C+Computer+Vision+%7C+Full-Stack;Turning+research+papers+into+production+code;0.92+AUC+anomaly+detection+%7C+12-agent+pipelines" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -236,16 +236,12 @@ Full reproduction of the HERMES research methodology with experimental analysis,
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-hameem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=667eea&text_color=C9D1D9&ring_color=764ba2" width="49%" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hameem&hide_border=true&background=0D1117&ring=764ba2&fire=C084FC&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=545d6e" width="49%" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=md-hameem&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=667eea&text_color=C9D1D9&ring_color=764ba2" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-hameem&hide_border=true&background=0D1117&ring=764ba2&fire=C084FC&currStreakLabel=C084FC&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=545d6e" width="49%" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-hameem&bg_color=0D1117&color=C084FC&line=667eea&point=C084FC&area=true&area_color=764ba2&hide_border=true" width="98%" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-hameem&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&langs_count=8" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-hameem&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" width="49%" alt="Top Languages"/>
 </p>
 
 <br/>
@@ -258,7 +254,7 @@ Full reproduction of the HERMES research methodology with experimental analysis,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-hameem&label=Profile+Views&color=764ba2&style=flat-square" alt="Views"/>
+  <img src="https://img.shields.io/badge/Profile_Views-1.6k+-764ba2?style=flat-square&logo=github" alt="Views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
